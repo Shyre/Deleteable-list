@@ -1,15 +1,16 @@
-  #date: 		15-08-2012
-  #version: 	0.2
-  #author: 		Sonni D. Hansen
-  #email:    	sonnii.hansen@gmail.com
-  #license  	GPL v3
- 
-  #comment:		This is a rewrite of Jin p Myung's Ext.jsv.DeletableList component. I didn't make this,
- 				I just rewrote it because i needed some extra features and added a Quick Guide to get started.
+#Deletable-List component
+    #date: 15-08-2012
+    #version: 0.2
+    #author: Sonni D. Hansen
+    #email: sonnii.hansen@gmail.com
+    #license: GPL v3
+
   
-  #fixes:		Bug's corrected, new animations added and drag list removes delete button.
+This is a rewrite of Jin p Myung's Ext.jsv.DeletableList       component. I didn't make this,I just rewrote it because i needed some extra features and added a Quick Guide to get started.
+  
+    #fixes: Bug's corrected, new animations added and drag list removes delete button.
  
-  QUICK GUIDE:
+####QUICK GUIDE: 
   If you aren't too familiar with Sencha Touch 2 and the Class system, 
   here's a quick guide to get you started.
  
